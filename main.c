@@ -24,6 +24,11 @@ int maru() {
    return 1; 
 }
 
+int test() {
+    printf("テストだよお");
+    return 0;
+}
+
 void main() {
     printf("Hello World!!!");
 }
