@@ -26,4 +26,6 @@ int maru() {
 
 void main() {
     printf("Hello World!!!");
+
+    printf("printfを追加した");
 }
